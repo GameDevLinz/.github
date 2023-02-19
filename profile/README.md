@@ -1,5 +1,6 @@
 # GameDev Linz
 ✨ Join us on our discord over at: https://discord.gg/XhRhzRRrK8 ✨
+
 🌐 ... or visit our website over at: https://gamedev-linz.at/ 🌐
 
 Enthusiasts from Linz, Upper Austria, Austria 🇦🇹 
